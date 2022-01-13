@@ -2,11 +2,17 @@
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">I am a learner and trying my hands on new projects.</h3>
 
+
+<p align="left"> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/shalini-bit/shalini-bit/blob/main/prog.png">
+
 - 🔭 I’m currently working on [Podfeed](https://github.com/shalini-bit/PodFeed)
 
 - 🌱 I’m currently learning **django**
 
 - 📫 How to reach me **shalinis0205@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +30,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalini-bit&theme=radical&show_icons=true&locale=en" alt="shalini-bit" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini-bit&theme=radical&show_icons=true&locale=en&layout=compact" alt="shalini-bit" /></p
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini-bit&theme=radical&show_icons=true&locale=en&layout=compact" alt="shalini-bit" /></p>
+
+
+
+  
+
 
 
 
