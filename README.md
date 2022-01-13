@@ -23,7 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalini-bit&theme=radical&show_icons=true&locale=en" alt="shalini-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-bit&theme=radical" alt="shalini-bit" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini-bit&theme=radical&show_icons=true&locale=en&layout=compact" alt="shalini-bit" /></p
 
 
 
