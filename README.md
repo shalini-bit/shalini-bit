@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Podfeed](https://github.com/shalini-bit/PodFeed)
+- 🔭 I’m currently working on [Podfeed-Podcast Aggregator](https://github.com/shalini-bit/PodFeed)
 
 - 🌱 I’m currently learning **django**
 
