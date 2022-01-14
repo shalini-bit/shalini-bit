@@ -1,8 +1,10 @@
+<p float = "center">
+<img  alt="Coding" width="1000" src="https://user-images.githubusercontent.com/64901722/149524841-4364f481-66c5-4d68-a16a-6de55d1d5952.gif">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">I am a learner and trying my hands on new projects.</h3>
-
-
 
 
 - 🔭 I’m currently working on [Podfeed-Podcast Aggregator](https://github.com/shalini-bit/PodFeed)
