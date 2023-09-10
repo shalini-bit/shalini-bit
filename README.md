@@ -5,10 +5,6 @@
 <h3 align="center">I am a learner and trying my hands on new projects.</h3>
 
 
-- 🔭 I’m currently working on [Podfeed-Podcast Aggregator](https://github.com/shalini-bit/PodFeed)
-
-- 🌱 I’m currently learning **django**
-
 - 📫 How to reach me **shalinis0205@gmail.com**
 
 
