@@ -25,14 +25,14 @@
 
 
 <h4 align="left">Wanna Connect with me? You are most welcome ❤️</h4>
+<center>
 <p align="left">
 <a href="https://twitter.com/shalini_bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shalini_bit" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/shalini-singh-4753991b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini-singh-4753991b0" height="30" width="30" /></a>
 <a href="https://fb.com/shalini.shalu.566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shalini.shalu.566" height="30" width="30" /></a>
 <a href="https://instagram.com/itsnotshalinii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsnotshalinii" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/shalini455" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shalini455" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shalini455/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shalini455/profile" height="30" width="30" /></a>
 </p>
+</center>
 
   
 
