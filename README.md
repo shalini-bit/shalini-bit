@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">I am a learner and trying my hands on new projects.</h3>
-
+<img align = "right" alt = "codinggif" width = 300 src ="https://github.com/shalini-bit/shalini-bit/blob/main/Programmer%20Day%20-%20Porforever.gif">
 
 - 📫 How to reach me **shalinis0205@gmail.com**
 
