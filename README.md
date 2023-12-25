@@ -1,10 +1,8 @@
 ![logo](https://github.com/shalini-bit/shalini-bit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-
-
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">I am a learner and trying my hands on new projects.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-bit&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-bit" /> </p>
 - 📫 How to reach me **shalinis0205@gmail.com**
 
 <img align = "right" alt = "codinggif" width = 400 src ="https://github.com/shalini-bit/shalini-bit/blob/main/Programmer%20Day%20-%20Porforever.gif">
