@@ -1,6 +1,5 @@
-![logo](https://github.com/shalini-bit/shalini-bit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shalini</h1>
-<h3 align="center">I am a learner and trying my hands on new projects.</h3>
+<!-- ![logo](https://github.com/shalini-bit/shalini-bit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-bit&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-bit" /> </p>
 - 📫 How to reach me **shalinis0205@gmail.com**
@@ -22,7 +21,10 @@
 
 
 
+-->
 
+ <h1 align="center">Hi 👋, I'm Shalini</h1>
+ <h3 align="center">I am a learner and trying my hands on new projects.</h3>
 <h2>My Most used Languages and Github Stats: </h2>
 
 
@@ -37,7 +39,7 @@
 <a href="https://linkedin.com/in/shalini-singh-4753991b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini-singh-4753991b0" height="30" width="30" /></a>
 <a href="https://fb.com/shalini.shalu.566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shalini.shalu.566" height="30" width="30" /></a>
 <a href="https://instagram.com/itsnotshalinii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsnotshalinii" height="30" width="30" /></a>
-</p>
+</p> 
 
 
 
