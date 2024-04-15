@@ -1,5 +1,8 @@
-<!-- ![logo](https://github.com/shalini-bit/shalini-bit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/shalini-bit/shalini-bit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
+<h1 align="center">Hi 👋, I'm Shalini</h1>
+ <h3 align="center">I am a learner and trying my hands on new projects.</h3>
+<h2>My Most used Languages and Github Stats: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-bit&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-bit" /> </p>
 - 📫 How to reach me **shalinis0205@gmail.com**
@@ -21,11 +24,8 @@
 
 
 
--->
 
- <h1 align="center">Hi 👋, I'm Shalini</h1>
- <h3 align="center">I am a learner and trying my hands on new projects.</h3>
-<h2>My Most used Languages and Github Stats: </h2>
+ 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini-bit&theme=radical&show_icons=true&locale=en&layout=compact" alt="shalini-bit" /></p>
