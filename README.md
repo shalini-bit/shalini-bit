@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-bit&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-bit" /> </p>
 - 📫 How to reach me **shalinis0205@gmail.com**
 
-<img align = "right" alt = "codinggif" width = 400 src ="https://github.com/shalini-bit/shalini-bit/blob/main/Programmer%20Day%20-%20Porforever.gif">
+<img align = "center" alt = "codinggif" width = 300 src ="https://github.com/shalini-bit/shalini-bit/blob/main/Programmer%20Day%20-%20Porforever.gif">
 <!--
 <h2 align="left">Programming Languages</h2>
 
